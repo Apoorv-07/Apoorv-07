@@ -54,7 +54,3 @@ I work on **applied machine learning and computer vision systems**, with experie
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Apoorv-07&show_icons=true&locale=en&layout=compact" />
 </p>
-
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Apoorv-07&show_icons=true&locale=en" />
-</p>
