@@ -45,7 +45,7 @@ I work on **applied machine learning and computer vision systems**, with experie
 ---
 
 ### 🛠️ Languages & Tools
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,git,linux&perline=5" />
 </p>
 
