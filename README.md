@@ -1,6 +1,6 @@
 # Hi 👋, I'm Apoorv Singh
 
-### Machine Learning Intern | Computer Science (AI & ML)
+### Computer Science (AI & ML)
 
 I work on **applied machine learning and computer vision systems**, with experience building, evaluating, and optimizing real-world ML pipelines for **medical imaging** and **real-time inference**.
 
