@@ -49,8 +49,3 @@ I work on **applied machine learning and computer vision systems**, with experie
 <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,scikitlearn,opencv,numpy,pandas,matplotlib,jupyter,streamlit,git,linux" />
 </p>
 
----
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Apoorv-07&show_icons=true&locale=en&layout=compact" />
-</p>
