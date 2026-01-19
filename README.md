@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi 👋, I'm Apoorv Singh
 
-<!--
-**Apoorv-07/Apoorv-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Machine Learning Intern | Computer Science (AI & ML)
 
-Here are some ideas to get you started:
+I work on **applied machine learning and computer vision systems**, with experience building, evaluating, and optimizing real-world ML pipelines for **medical imaging** and **real-time inference**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔬 Current Focus
+- Machine learning & computer vision (CNN-based models)
+- Model evaluation (precision, recall, ROC-AUC, F1-score)
+- Inference optimization and performance tuning
+
+---
+
+### 🤝 Open to
+- Collaborating on **ML / computer vision projects** with real-world datasets  
+- Applied ML or research-oriented internship opportunities
+
+---
+
+### 💬 Ask me about
+- Machine learning & deep learning fundamentals  
+- Computer vision pipelines  
+- Model evaluation and inference optimization  
+
+---
+
+### 📫 Contact
+- **Email:** apoorv.singh006@gmail.com  
+- **Resume:** https://drive.google.com/file/d/1eGO-_dD5v11S4jUTAsb6QR9xYmjtSKyW/view  
+
+---
+
+### 🔗 Connect with me
+<p align="left">
+<a href="https://github.com/Apoorv-07" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/apoorv-singh-as07" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,keras,scikitlearn,opencv,numpy,pandas,matplotlib,jupyter,streamlit,git,linux" />
+</p>
+
+---
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Apoorv-07&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Apoorv-07&show_icons=true&locale=en" />
+</p>
