@@ -45,7 +45,9 @@ I work on **applied machine learning and computer vision systems**, with experie
 ---
 
 ### 🛠️ Languages & Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,keras,scikitlearn,opencv,numpy,pandas,matplotlib,jupyter,streamlit,git,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,git,linux&perline=5" />
 </p>
+
+**Also worked with:** Keras, scikit-learn, NumPy, Pandas, Matplotlib, Jupyter, Streamlit
 
