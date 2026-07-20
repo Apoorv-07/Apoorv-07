@@ -1,53 +1,259 @@
-# Hi 👋, I'm Apoorv Singh
+<div align="center">
 
-### Computer Science (AI & ML)
+# APOORV SINGH
 
-I work on **applied machine learning and computer vision systems**, with experience building, evaluating, and optimizing real-world ML pipelines for **medical imaging** and **real-time inference**.
+### AI Engineer • ML Engineer • Computer Vision • Builder
 
----
+> ### "Fuck Around. Find Out."
+> Build. Break. Learn. Repeat.
 
-### 🔬 Current Focus
-- Machine learning & computer vision (CNN-based models)
-- Model evaluation (precision, recall, ROC-AUC, F1-score)
-- Inference optimization and performance tuning
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1500&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+things+that+probably+shouldn't+exist.;Teaching+computers+to+see.;Optimizing+everything.;Turning+ideas+into+products." />
 
----
-
-### 🤝 Open to
-- Collaborating on **ML / computer vision projects** with real-world datasets  
-- Applied ML or research-oriented internship opportunities
+</div>
 
 ---
 
-### 💬 Ask me about
-- Machine learning & deep learning fundamentals  
-- Computer vision pipelines  
-- Model evaluation and inference optimization  
+# Who am I?
+
+I'm an engineer obsessed with building things.
+
+Sometimes they're AI systems.
+
+Sometimes they're products.
+
+Sometimes they're experiments that completely fail.
+
+Every project teaches something.
+
+I don't believe in waiting until I know everything.
+
+I prefer shipping first and figuring things out later.
+
+> **"The fastest way to learn is to build something difficult."**
 
 ---
 
-### 📫 Contact
-- **Email:** apoorv.singh006@gmail.com  
-- **Resume:** https://drive.google.com/file/d/1eGO-_dD5v11S4jUTAsb6QR9xYmjtSKyW/view  
+# Current Obsessions
+
+🧠 Deep Learning
+
+👁 Computer Vision
+
+⚡ High Performance ML
+
+🤖 AI Agents
+
+🛰 Real-Time Inference
+
+🧪 Research Papers
+
+🚀 Building Startups
 
 ---
 
-### 🔗 Connect with me
-<p align="left">
-<a href="https://github.com/Apoorv-07" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/apoorv-singh-as07" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</p>
+# What I Build
+
+Instead of toy projects, I like solving actual problems.
+
+• Medical Image Analysis
+
+• Detection Systems
+
+• Computer Vision Pipelines
+
+• Autonomous AI Agents
+
+• ML APIs
+
+• Full Stack AI Applications
+
+• Research Implementations
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,git,linux&perline=5" />
-</p>
+# Engineering Philosophy
 
-**Also worked with:** Keras, scikit-learn, NumPy, Pandas, Matplotlib, Jupyter, Streamlit
+```
+while(alive){
 
+    Build();
+
+    Break();
+
+    Learn();
+
+    Improve();
+
+}
+```
+
+---
+
+# Current Mission
+
+```
+Become dangerous with AI.
+
+Ship products.
+
+Read papers.
+
+Outwork yesterday.
+
+Repeat.
+```
+
+---
+
+# Tech Arsenal
+
+### Languages
+
+Python
+
+C++
+
+Java
+
+JavaScript
+
+SQL
+
+---
+
+### AI
+
+TensorFlow
+
+PyTorch
+
+Keras
+
+OpenCV
+
+scikit-learn
+
+NumPy
+
+Pandas
+
+Ultralytics
+
+YOLO
+
+---
+
+### Backend
+
+FastAPI
+
+Flask
+
+Firebase
+
+Node.js
+
+REST APIs
+
+---
+
+### Frontend
+
+React
+
+Next.js
+
+TailwindCSS
+
+HTML
+
+CSS
+
+---
+
+### Dev Tools
+
+Linux
+
+Git
+
+Docker
+
+VS Code
+
+Jupyter
+
+Streamlit
+
+---
+
+# What I'm Learning
+
+- Multi-Agent AI Systems
+- LLM Engineering
+- Reinforcement Learning
+- Edge AI
+- CUDA Optimization
+- MLOps
+
+---
+
+# Fun Facts
+
+⚡ I read research papers for fun.
+
+⚡ Most of my best ideas start at 2 AM.
+
+⚡ I optimize everything.
+
+⚡ If an API doesn't exist...
+
+I'll probably build it.
+
+⚡ My commits usually begin with
+
+"just a small change"
+
+and somehow end with
+
++3,000 lines.
+
+---
+
+# Open To
+
+Research
+
+Open Source
+
+Hackathons
+
+Interesting Problems
+
+AI Startups
+
+Building insane things
+
+---
+
+# Connect
+
+GitHub
+
+LinkedIn
+
+Email
+
+Resume
+
+---
+
+<div align="center">
+
+## "Stay curious."
+
+## "Build first."
+
+## "Fuck Around. Find Out."
+
+</div>
