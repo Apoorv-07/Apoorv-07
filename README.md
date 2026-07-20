@@ -1,71 +1,125 @@
 <div align="center">
 
-# █████╗ ██████╗  ██████╗  ██████╗ ██████╗ ██╗   ██╗
-# ██╔══██╗██╔══██╗██╔═══██╗██╔═══██╗██╔══██╗██║   ██║
-# ███████║██████╔╝██║   ██║██║   ██║██████╔╝██║   ██║
-# ██╔══██║██╔═══╝ ██║   ██║██║   ██║██╔══██╗╚██╗ ██╔╝
-# ██║  ██║██║     ╚██████╔╝╚██████╔╝██║  ██║ ╚████╔╝
-# ╚═╝  ╚═╝╚═╝      ╚═════╝  ╚═════╝ ╚═╝  ╚═╝  ╚═══╝
+# APOORV SINGH
 
-## AI ENGINEER • BUILDER • CREATIVE TECHNOLOGIST
+### AI Engineer • ML Engineer • Computer Vision • Builder
 
-> **"Fuck Around. Find Out."**
+> ### "Fuck Around. Find Out."
+> Build. Break. Learn. Repeat.
 
-```
-BOOTING APOORV OS...
-Loading neural modules...
-Loading computer vision...
-Loading bad ideas...
-Loading worse ideas...
-Success.
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1500&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+things+that+probably+shouldn't+exist.;Teaching+computers+to+see.;Optimizing+everything.;Turning+ideas+into+products." />
 
 </div>
 
 ---
 
-# SYSTEM STATUS
+# Who am I?
+
+I'm an engineer obsessed with building things.
+
+Sometimes they're AI systems.
+
+Sometimes they're products.
+
+Sometimes they're experiments that completely fail.
+
+Every project teaches something.
+
+I don't believe in waiting until I know everything.
+
+I prefer shipping first and figuring things out later.
+
+> **"The fastest way to learn is to build something difficult."**
+
+---
+
+# Current Obsessions
+
+🧠 Deep Learning
+
+👁 Computer Vision
+
+⚡ High Performance ML
+
+🤖 AI Agents
+
+🛰 Real-Time Inference
+
+🧪 Research Papers
+
+🚀 Building Startups
+
+---
+
+# What I Build
+
+Instead of toy projects, I like solving actual problems.
+
+• Medical Image Analysis
+
+• Detection Systems
+
+• Computer Vision Pipelines
+
+• Autonomous AI Agents
+
+• ML APIs
+
+• Full Stack AI Applications
+
+• Research Implementations
+
+---
+
+# Engineering Philosophy
 
 ```
-Name            : Apoorv Singh
+while(alive){
 
-Role            : AI Engineer
+    Build();
 
-Mission         : Build ridiculously ambitious software.
+    Break();
 
-Current State   : Learning.
+    Learn();
 
-CPU             : Sleep Deprived
+    Improve();
 
-RAM             : Filled with startup ideas
-
-Energy           : Coffee + Curiosity
-
-Stability       : Experimental
+}
 ```
 
 ---
 
-# CURRENT QUESTS
+# Current Mission
 
-```yaml
-Main Quest:
-  Become one of the best AI Engineers.
+```
+Become dangerous with AI.
 
-Side Quests:
-  • Build AI Companies
-  • Read Research Papers
-  • Win Hackathons
-  • Build products people actually use
-  • Create beautiful software
+Ship products.
 
-Hidden Quest:
-  Build something impossible.
+Read papers.
+
+Outwork yesterday.
+
+Repeat.
 ```
 
 ---
 
-# TECH TREE
+# Tech Arsenal
+
+### Languages
+
+Python
+
+C++
+
+Java
+
+JavaScript
+
+SQL
+
+---
 
 ### AI
 
@@ -73,187 +127,122 @@ TensorFlow
 
 PyTorch
 
+Keras
+
 OpenCV
-
-YOLO
-
-Ultralytics
 
 scikit-learn
 
-Keras
+NumPy
 
-CNN
+Pandas
 
-Vision Transformers
+Ultralytics
 
-LLMs
+YOLO
 
 ---
 
-### Full Stack
+### Backend
+
+FastAPI
+
+Flask
+
+Firebase
+
+Node.js
+
+REST APIs
+
+---
+
+### Frontend
 
 React
 
 Next.js
 
-Node
+TailwindCSS
 
-FastAPI
+HTML
 
-Firebase
+CSS
 
-Supabase
+---
 
-MongoDB
-
-Postgres
-
-Docker
+### Dev Tools
 
 Linux
 
 Git
 
----
+Docker
 
-### Creative
+VS Code
 
-Three.js
+Jupyter
 
-GSAP
-
-Spline
-
-Framer Motion
-
-Blender
-
-WebGL
-
-Shader Basics
+Streamlit
 
 ---
 
-### Currently Unlocking
+# What I'm Learning
 
-Agentic AI
-
-MCP
-
-RAG
-
-CUDA
-
-MLOps
-
-Distributed Systems
-
-Rust
-
-Go
+- Multi-Agent AI Systems
+- LLM Engineering
+- Reinforcement Learning
+- Edge AI
+- CUDA Optimization
+- MLOps
 
 ---
 
-# PHILOSOPHY
+# Fun Facts
 
-```
-if (idea.exists()) {
+⚡ I read research papers for fun.
 
-    build();
+⚡ Most of my best ideas start at 2 AM.
 
-}
+⚡ I optimize everything.
 
-else {
+⚡ If an API doesn't exist...
 
-    invent();
+I'll probably build it.
 
-}
-```
+⚡ My commits usually begin with
 
----
+"just a small change"
 
-# CURRENTLY BREAKING
+and somehow end with
 
-```
-██████████░░░░░░░░  AI Agents
-
-██████████████░░░░  Computer Vision
-
-███████████░░░░░░░  LLM Workflows
-
-████████████████░░  Startup Ideas
-
-██████████████████  Sleep Schedule
-```
++3,000 lines.
 
 ---
 
-# WHAT I BUILD
+# Open To
 
-• AI Products
+Research
 
-• ML Pipelines
+Open Source
 
-• Computer Vision Systems
+Hackathons
 
-• Autonomous Agents
+Interesting Problems
 
-• Full Stack Applications
+AI Startups
 
-• Experimental Projects
-
-• Startup MVPs
-
-• Things nobody asked for.
+Building insane things
 
 ---
 
-# BUILD LOG
+# Connect
 
-```
-✓ Broke production.
-
-✓ Fixed production.
-
-✓ Broke it again.
-
-✓ Optimized it.
-
-✓ Added AI.
-
-✓ Somehow made it faster.
-```
-
----
-
-# DAILY LOOP
-
-```
-while(alive){
-
-    Learn();
-
-    Build();
-
-    Break();
-
-    Optimize();
-
-    Repeat();
-
-}
-```
-
----
-
-# CONTACT
-
-Email
+GitHub
 
 LinkedIn
 
-Portfolio
+Email
 
 Resume
 
@@ -261,10 +250,10 @@ Resume
 
 <div align="center">
 
-## There are two kinds of engineers.
+## "Stay curious."
 
-The ones who wait.
+## "Build first."
 
-And the ones who build.
+## "Fuck Around. Find Out."
 
 </div>
