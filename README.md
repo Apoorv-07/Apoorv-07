@@ -1,7 +1,5 @@
 <div align="center">
-
-# APOORV SINGH
-
+    
 ### AI Engineer • ML Engineer • Computer Vision • Builder
 
 > ### "Fuck Around. Find Out."
